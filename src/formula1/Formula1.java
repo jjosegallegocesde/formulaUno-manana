@@ -26,6 +26,8 @@ public class Formula1 {
         
         Controlador controlador = new Controlador(modelo,vista);
         
+       
+        
         
     }
     
